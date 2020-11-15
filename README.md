@@ -3,7 +3,7 @@
 ## Overview
 The propose of this project is to help Britta a member of the Amazing Prime video team extract the data from two different sources: ```Wikipedia and MovieLens```, merge it into a single data set, and finally load that data set into Postgres SQL database so that end user has access to a clean dataset. The movies data is gathered from Wikipedia and their ratings from MovieLens, which is a movie rating website.
 
-**Data Sets**
+**Data Source**
 
 -	```movies_metadata.csv```:  Metadata file with details about the movies from IMDB.
 
@@ -32,7 +32,7 @@ The propose of this project is to help Britta a member of the Amazing Prime vide
 
 4.```ETL_create_database.ipynb```
 
-- A copy of the ```ETL_clean_kaggle_data.ipynb``` file is created and the Movie Database is loaded to the PostgreSQL.
+- A copy of the ```ETL_clean_kaggle_data.ipynb``` file is created and the Movie Database is loaded to the PostgreSQL using SQLAlchemy.
 
 ## Results
 
