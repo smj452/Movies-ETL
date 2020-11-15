@@ -38,7 +38,7 @@ The propose of this project is to help Britta a member of the Amazing Prime vide
  **Movies DataFrame**
 ![ Movie data.png](https://github.com/smj452/Movies-ETL/blob/main/Resources/Movie%20data.png)
 
-**Ratings DataFrame**
+**Movies With Ratings DataFrame**
 ![ Ratings Data.png]( https://github.com/smj452/Movies-ETL/blob/main/Resources/Ratings%20Data.png)
 
 
