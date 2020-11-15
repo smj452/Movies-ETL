@@ -27,11 +27,11 @@ The propose of this project is to help Britta a member of the Amazing Prime vide
 -  After the Wikipedia data is cleansed, ```kaggle_metadata``` and ```ratings``` Data Frames are created.
 - The Kaggle metadata data frame is merged with the Wikipedia movies data frame to create the ```movies_df``` data frame. 
 - Finally, the MovieLens rating data frame is merged with the ```movies_df``` data frame to create the```movies_with_ratings_df```.
-- Merge the Wikipedia dataset with Kaggle data. Update and drop fields that exist in both datasets.
+- Merged the Wikipedia dataset with Kaggle data. Updated and dropped fields that exist in both datasets.
 
 4.```ETL_create_database.ipynb```
 
-- A copy of the ```ETL_clean_kaggle_data.ipynb``` file is created and the  Movie Database is loaded to the PostgreSQL.
+- A copy of the ```ETL_clean_kaggle_data.ipynb``` file is created and the Movie Database is loaded to the PostgreSQL.
 
 ## Result
 
