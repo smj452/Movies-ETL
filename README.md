@@ -15,7 +15,7 @@ The propose of this project is to help Britta a member of the Amazing Prime vide
 
 1.```ETL_function_test.ipynb```
 
-- A function is defined and reads data from Wikipedia, Kaggle and Movielens. Then Data Frame is created for each of the files.
+- A function is defined and reads data from Wikipedia, Kaggle and MovieLens. Then Data Frame is created for each of the files.
 
 2.```ETL_clean_wiki_movies.ipynb ```
 -	The Function defined cleans the Wikipedia data to contain data with 'imdb_link' and ('Director' or 'Directed by') keys and not 'No. of episodes'.
