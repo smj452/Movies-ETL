@@ -33,7 +33,7 @@ The propose of this project is to help Britta a member of the Amazing Prime vide
 
 - A copy of the ```ETL_clean_kaggle_data.ipynb``` file is created and the Movie Database is loaded to the PostgreSQL.
 
-## Result
+## Results
 
  **Movies DataFrame**
 ![ Movie data.png](https://github.com/smj452/Movies-ETL/blob/main/Resources/Movie%20data.png)
