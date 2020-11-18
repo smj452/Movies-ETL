@@ -1,4 +1,4 @@
-# Movie Data -Extract Transform Load (ETL)
+# Movies Data -Extract Transform Load (ETL)
 
 ## Overview
 The propose of this project is to help Britta a member of the Amazing Prime video team extract the data from two different sources: ```Wikipedia and MovieLens```, merge it into a single data set, and finally load that data set into Postgres SQL database so that end user has access to a clean dataset. The movies data is gathered from Wikipedia and their ratings from MovieLens, which is a movie rating website.
